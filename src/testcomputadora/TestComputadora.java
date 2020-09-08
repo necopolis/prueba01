@@ -16,6 +16,8 @@ public class TestComputadora {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Computadora bgh=new Computadora();
+        bgh.procesar();
     }
     
 }
